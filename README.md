@@ -1,2 +1,0 @@
-# gozila007
-Lua
